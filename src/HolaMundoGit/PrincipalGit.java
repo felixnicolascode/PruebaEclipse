@@ -8,7 +8,11 @@ public class PrincipalGit {
 		
 		String nombre= "Felix";
 		
+		String nombre2= "Nicolás";
+		
 		System.out.println(nombre);
+		
+		System.out.println(nombre2);
 		
 
 	}
